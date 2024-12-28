@@ -1,2 +1,4 @@
 venv/
 .DS_Store # optional Mac file
+venv/
+.DS_Store # optional Mac file
